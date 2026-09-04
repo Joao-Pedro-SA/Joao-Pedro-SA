@@ -1,8 +1,8 @@
 ## 🧑🏽‍💻João Pedro 
 
-**`Desenvolvedor BackEnd`**
+**`Desenvolvedor Full Stack`**
 
-Desenvolvedor backend em formação com foco em Java e Spring Boot, com experiência prática no desenvolvimento de APIs REST, integração com banco de dados, testes automatizados e deploy em cloud. Atualmente curso Análise e Desenvolvimento de Sistemas na UCB.
+Desenvolvedor Full Stack em formação, com foco atual em JavaScript, Angular e Node.js, e experiência prática na criação de APIs REST com Java e Spring Boot, integração com bancos de dados, testes automatizados e deploy em cloud. Atualmente, curso Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília (UCB).
 
 ---
 
@@ -10,29 +10,31 @@ Desenvolvedor backend em formação com foco em Java e Spring Boot, com experiê
 
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="JavaScript" 
+    title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
 <img 
     align="left" 
-    alt="MySQL" 
-    title="MySQL"
+    alt="Angular" 
+    title="Angular"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+
 <img 
     align="left" 
     alt="Java" 
@@ -53,11 +55,29 @@ Desenvolvedor backend em formação com foco em Java e Spring Boot, com experiê
 
 <img 
     align="left" 
-    alt="Amazon Web Services logo" 
-    title="Amazon Web Services"
+    alt="MySQL" 
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="MongoDB" 
+    title="MongoDB"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" 
 />
 
 <img 
@@ -67,6 +87,24 @@ Desenvolvedor backend em formação com foco em Java e Spring Boot, com experiê
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Amazon Web Services logo" 
+    title="Amazon Web Services"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
 <br/>
